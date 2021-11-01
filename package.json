@@ -95,10 +95,7 @@
     "semantic-ui-css": "^2.4.1",
     "semantic-ui-react": "^0.88.0"
   },
-  "author": {
-    "name": "Alberto Ortiz Flores",
-    "email": "aortiz@nyu.edu"
-  },
+  "author": "Alberto Ortiz Flores <aortiz@nyu.edu>",
   "homepage": "https://github.com/dismorfo/react-invenio-dlts",
   "bugs": {
     "url": "https://github.com/dismorfo/react-invenio-dlts/issues"
@@ -106,10 +103,9 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dismorfo/react-invenio-dlts.git"
+    "url": "git+https://github.com/dismorfo/react-invenio-dlts.git"
   },
-  "keywords": [
-  ],
+  "keywords": [],
   "eslintConfig": {
     "extends": "react-app"
   },
