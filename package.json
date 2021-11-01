@@ -69,7 +69,6 @@
     "enzyme": "^3.10.0",
     "enzyme-adapter-react-16": "^1.15.1",
     "enzyme-to-json": "^3.4.3",
-    "eslint": "^8.1.0",
     "expect": "^26.0.1",
     "formik": "^2.1.4",
     "i18next-browser-languagedetector": "^6.1.1",
