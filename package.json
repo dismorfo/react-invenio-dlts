@@ -96,25 +96,19 @@
     "semantic-ui-react": "^0.88.0"
   },
   "author": {
-    "name": "CERN",
-    "email": "info@inveniosoftware.org"
+    "name": "Alberto Ortiz Flores",
+    "email": "aortiz@nyu.edu"
   },
-  "homepage": "https://inveniosoftware.github.io/react-invenio-deposit/",
+  "homepage": "https://github.com/dismorfo/react-invenio-dlts",
   "bugs": {
-    "url": "https://github.com/inveniosoftware/react-invenio-deposit/issues"
+    "url": "https://github.com/dismorfo/react-invenio-dlts/issues"
   },
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/inveniosoftware/react-invenio-deposit.git"
+    "url": "https://github.com/dismorfo/react-invenio-dlts.git"
   },
   "keywords": [
-    "react",
-    "react-component",
-    "react-invenio-deposit",
-    "deposit",
-    "invenio",
-    "react deposit"
   ],
   "eslintConfig": {
     "extends": "react-app"
