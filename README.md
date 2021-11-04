@@ -1,4 +1,4 @@
-# DLTS React Invenio
+# React Ultraviolet Deposit
 
 ## Run tests
 
