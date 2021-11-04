@@ -31,29 +31,29 @@
     "lint": "eslint src/**/*.js",
     "format": "prettier --config ./.prettierrc --ignore-path ./.prettierignore --write \"src/**/*.js\""
   },
-  "dependencies": {},
   "peerDependencies": {
-    "@ckeditor/ckeditor5-build-classic": "^16.0.0",
-    "@ckeditor/ckeditor5-react": "^2.1.0",
+    "@babel/runtime": "^7.9.0",
     "axios": "^0.21.1",
     "formik": "^2.1.4",
+    "i18next": "^20.3.1",
+    "i18next-browser-languagedetector": "^6.1.1",
+    "lodash": "^4.17.15",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-dropzone": "^11.0.3",
+    "react-i18next": "^11.11.3",
+    "react-invenio-deposit": "^0.17.0",
     "react-invenio-forms": "^0.8.0",
     "react-redux": "^7.2",
     "redux": "^4.0.5",
     "redux-thunk": "^2.3.0",
-    "lodash": "^4.17.15",
-    "semantic-ui-react": "^0.88.0",
     "semantic-ui-css": "^2.4.1",
-    "@babel/runtime": "^7.9.0",
-    "i18next": "^20.3.1",
-    "i18next-browser-languagedetector": "^6.1.1",
-    "react-i18next": "^11.11.3"
+    "semantic-ui-react": "^0.88.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.5.5",
+    "@ckeditor/ckeditor5-build-classic": "^31.0.0",
+    "@ckeditor/ckeditor5-react": "^3.0.3",
     "@rollup/plugin-alias": "^3.1.4",
     "@rollup/plugin-babel": "^5.0.0",
     "@rollup/plugin-commonjs": "^11.1.0",
@@ -94,14 +94,14 @@
     "semantic-ui-react": "^0.88.0"
   },
   "author": "Alberto Ortiz Flores <aortiz@nyu.edu>",
-  "homepage": "https://github.com/dismorfo/react-invenio-dlts",
+  "homepage": "https://github.com/dismorfo/react-ultraviolet-deposit",
   "bugs": {
-    "url": "https://github.com/dismorfo/react-invenio-dlts/issues"
+    "url": "https://github.com/dismorfo/react-ultraviolet-deposit/issues"
   },
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dismorfo/react-invenio-dlts.git"
+    "url": "git+https://github.com/dismorfo/react-ultraviolet-deposit.git"
   },
   "keywords": [],
   "eslintConfig": {

@@ -1,8 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-
 import { Form, Formik } from 'formik';
-
 import { RemoteResourceTypeField } from './RemoteResourceTypeField';
 
 it('renders without crashing', () => {
