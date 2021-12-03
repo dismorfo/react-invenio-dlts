@@ -1,6 +1,6 @@
 {
   "name": "react-ultraviolet-deposit",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "React components to use with react-invenio-deposit module.",
   "main": "dist/cjs/index.js",
   "browser": "dist/cjs/index.js",
