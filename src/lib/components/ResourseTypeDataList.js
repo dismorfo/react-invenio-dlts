@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 import { v4 as uuidv4 } from 'uuid';
 import { FieldLabel, TextField } from 'react-invenio-forms';
-import { i18next } from './i18next';
+import { i18next } from '@translations/i18next';
 
 export class ResourseTypeDataList extends Component {
 

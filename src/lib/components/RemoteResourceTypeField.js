@@ -20,6 +20,7 @@ export class RemoteResourceTypeField extends Component {
       multiple,
       placeholder,
       clearable,
+      suggestionAPIUrl,
       initialSuggestions,
       ...uiProps
     } = this.props;
@@ -29,7 +30,7 @@ export class RemoteResourceTypeField extends Component {
     return (
       <RemoteSelectField
         fieldPath={fieldPath}
-        suggestionAPIUrl="/api/vocabularies/resourcetypes"
+        suggestionAPIUrl={suggestionAPIUrl}
         suggestionAPIHeaders={{
           Accept: 'application/vnd.inveniordm.v1+json',
         }}
@@ -77,5 +78,6 @@ RemoteResourceTypeField.defaultProps = {
   ),
   clearable: true,
   initialSuggestions: {},
+  suggestionAPIUrl: '/api/vocabularies/resourcetypes',
   serializeSuggestions: serializeSuggestions,
 };
