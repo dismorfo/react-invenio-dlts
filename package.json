@@ -130,5 +130,8 @@
     "moduleNameMapper": {
       "@translations/i18next": "<rootDir>/src/lib/i18next"
     }
+  },
+  "dependencies": {
+    "uuid": "^8.3.2"
   }
 }
