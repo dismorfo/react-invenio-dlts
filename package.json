@@ -94,14 +94,14 @@
     "semantic-ui-react": "^0.88.0"
   },
   "author": "Alberto Ortiz Flores <aortiz@nyu.edu>",
-  "homepage": "https://github.com/dismorfo/react-ultraviolet-deposit",
+  "homepage": "https://github.com/nyudlts/react-ultraviolet-deposit",
   "bugs": {
-    "url": "https://github.com/dismorfo/react-ultraviolet-deposit/issues"
+    "url": "https://github.com/nyudlts/react-ultraviolet-deposit/issues"
   },
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dismorfo/react-ultraviolet-deposit.git"
+    "url": "git+https://github.com/nyudlts/react-ultraviolet-deposit.git"
   },
   "keywords": [],
   "eslintConfig": {
